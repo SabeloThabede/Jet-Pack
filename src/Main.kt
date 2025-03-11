@@ -21,3 +21,8 @@ class Jetpack {
         println("Stopping for $seconds seconds. Current height: $userHeight meters.")
     }
 }
+//A "whole number" only includes zero and positive numbers, while an "integer" includes both positive and negative numbers, along with zero;
+// essentially, an integer is a set that encompasses all whole numbers and their negative counterparts.
+//Key points:
+//Whole numbers: 0, 1, 2, 3, 4, ...
+//Integers: -3, -2, -1, 0, 1, 2, 3, ...
